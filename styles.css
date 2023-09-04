@@ -3,6 +3,22 @@ body {
     flex-direction: column;
 }
 
-/*** #header {
+#header {
     background-color: #1f2937;
-}  
+    display: flex;
+    justify-content: space-between;
+}
+
+#logo {
+    font-size: 24px;
+    color: #f9faf8;
+}
+
+ul {
+    list-style: none;
+    display: flex;
+}
+
+li {
+    color: #f9faf8;
+}

@@ -62,3 +62,17 @@ button {
 .card {
     width: 150px;
 }
+
+#quote {
+    background-color: #e5e7eb;
+}
+
+#quote-text {
+    font-size: 36px;
+    font-style: italic;
+    color: #1f2937;
+}
+
+#citing {
+    font-weight: bold;
+}

@@ -76,3 +76,10 @@ button {
 #citing {
     font-weight: bold;
 }
+
+#call-to-action {
+    background-color: #3882f6;
+    color: #e5e7eb;
+    display: flex;
+}
+

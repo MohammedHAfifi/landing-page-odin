@@ -79,7 +79,11 @@ button {
 
 #call-to-action {
     background-color: #3882f6;
-    color: #e5e7eb;
+    color: #f9faf8;
     display: flex;
 }
 
+#footer {
+    background-color: #1f2937;
+    color: #f9faf8;
+}

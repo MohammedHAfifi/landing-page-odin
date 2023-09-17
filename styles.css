@@ -37,6 +37,7 @@ a {
 #hero {
     background-color: #1f2937;
     display: flex;
+    padding-bottom: 48px;
 }
 
 #main-hero-text {
@@ -120,5 +121,7 @@ button {
     height: 200px;
     background-color: gray;
     margin-top: 48px;
+    margin-right: 100px;
+    padding: 0px;
     text-align: center;
 }

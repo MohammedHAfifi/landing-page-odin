@@ -43,11 +43,13 @@ a {
     font-size: 48px;
     font-weight: 800;
     color: #f9faf8;
+    margin-bottom: 0px;
 }
 
 #hero-text {
     font-size: 18px;
     color: #e5e7eb;
+    margin-top: 0px;
 }
 
 button {

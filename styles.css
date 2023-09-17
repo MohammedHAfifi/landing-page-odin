@@ -1,6 +1,8 @@
 body {
     display: flex;
     flex-direction: column;
+    font-family: roboto;
+    margin: 0px;
 }
 
 div {
@@ -24,17 +26,13 @@ ul {
 }
 
 li {
-    margin: 0px 10px;
+    margin: 16px 10px;
 }
 
 a {
     text-decoration: none;
     color: #e5e7eb;
 }
-
-/**a:visited {
-    text-decoration: none;
-}**/
 
 #hero {
     background-color: #1f2937;

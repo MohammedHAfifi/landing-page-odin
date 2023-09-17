@@ -98,3 +98,7 @@ button {
     background-color: #1f2937;
     color: #f9faf8;
 }
+
+#hero .left {
+    max-width: 400px;
+}

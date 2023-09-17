@@ -55,6 +55,11 @@ a {
 button {
     background-color: #3882f6;
     color: #f9faf8;
+    border-radius: 8px;
+    width: 100px;
+    height: 30px;
+    font-weight: bold;
+    margin-top: 10px;
 }
 
 #info {

@@ -114,15 +114,20 @@ button {
 }
 
 #hero .left {
+    min-width: 400px;
     max-width: 400px;
 }
 
 #hero .right {
-    width: 400px;
+    min-width: 400px;
     height: 200px;
     background-color: gray;
     margin-top: 48px;
     margin-right: 100px;
     padding: 0px;
+    text-align: center;
+}
+
+#info-header-text {
     text-align: center;
 }

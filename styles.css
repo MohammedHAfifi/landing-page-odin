@@ -82,10 +82,22 @@ button {
 
 .container {
     display: flex;
+    justify-content: space-between;
+    margin-bottom: 100px;
 }
 
 .card {
     width: 150px;
+    padding: 0px;
+}
+
+.card-img {
+    border-style: solid;
+    border-radius: 7px;
+    border-color: #3882f6;
+    min-width: 145px;
+    min-height: 145px;
+    padding: 0px;
 }
 
 #quote {

@@ -57,11 +57,13 @@ a {
 button {
     background-color: #3882f6;
     color: #f9faf8;
+    border-style: none;
     border-radius: 8px;
     width: 100px;
     height: 30px;
     font-weight: bold;
     margin-top: 10px;
+    
 }
 
 #hero-img {
@@ -102,7 +104,7 @@ button {
 
 #quote {
     background-color: #e5e7eb;
-    padding: 100px 350px;
+    padding: 75px 350px;
 }
 
 #quote-text {
@@ -123,6 +125,10 @@ button {
     background-color: #3882f6;
     color: #f9faf8;
     display: flex;
+    margin: 75px 200px;
+    padding: 20px;
+    border-radius: 10px;
+    justify-content: space-between  ;
 }
 
 #footer {
@@ -147,4 +153,22 @@ button {
 
 #info-header-text {
     text-align: center;
+}
+
+#call-to-action .right {
+    align-self  : center;
+}
+
+#call-to-action button {
+    border-color: #f9faf8;
+    border-style: solid;
+}
+
+#cta-header-text {
+    margin-bottom: 0px;
+}
+
+#cta-text {
+    margin-top: 0px;
+    font-weight: 300;
 }
